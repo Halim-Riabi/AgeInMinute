@@ -47,14 +47,16 @@
         android:textSize="18sp"
         android:textColor="@color/LightGrey"
         android:backgroundTint="@color/btnBgColor"/>
+
     <TextView
+        android:id="@+id/tvSelectedDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="31.22.2023"
         android:textColor="@color/textBlue"
         android:textSize="20sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
